@@ -1,4 +1,6 @@
 # Custom Carousel Slider
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/emrankhan016/pen/zYGbOma](https://codepen.io/emrankhan016/pen/zYGbOma).
+The carousel is a slideshow for cycling through a series of content, built with CSS 3D transforms and a bit of JavaScript. It works with a series of images, text, or custom markup. It also includes support for previous/next controls and indicators.
+
+Click [Here](https://codepen.io/emrankhan016/full/zYGbOma) to see demo and Edit
 
