@@ -4,3 +4,5 @@ The carousel is a slideshow for cycling through a series of content, built with 
 
 Click [Here](https://codepen.io/emrankhan016/full/zYGbOma) to see demo and Edit
 
+Feel free to create an issue if you find any bug. You can also contribute if you want to. :)
+
